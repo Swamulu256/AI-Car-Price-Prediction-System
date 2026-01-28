@@ -187,4 +187,4 @@ This project is licensed under the MIT License.
 
 📜 License
 
-This project is licensed for educational and portfolio use.
+T
