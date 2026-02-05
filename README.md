@@ -57,6 +57,7 @@ ai-car-price-prediction-system/
     └── styles.css
 🚀 How to Run Locally
 1️⃣ Clone the Repository
+Clone the Repository git clone https://github.com/Swamulu256/AI-Car-Prediction-System.git 
 cd ai-car-price-prediction-system
 2️⃣ Create & Activate Virtual Environment
 python -m venv .venv
